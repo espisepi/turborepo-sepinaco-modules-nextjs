@@ -22,6 +22,10 @@ TODOS:
 2) Usar servicio en example
 3) Reemplazar servicio en example
 
+1) Usar storybook¿?
+
+1) Usar Jest y testear Nextjs Framework
+
 # Turborepo starter
 
 This is an official starter Turborepo.
