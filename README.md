@@ -1,3 +1,14 @@
+# Readme Sepinaco
+
+Este repositorio esta pensado para replicar el framework SAP Composable storefront (SAP Spartacus) hecho en Angular.
+
+Se usara NextJS y con la filosofia del framework SAP Spartacus, realizando las conexiones de datos a una BD local con Prisma o a un API REST Endpoint hecho con Nodejs y Express o con NestJS. Podremos elegir todas esas opciones.
+
+Se podra reemplazar los componentes y las paginas de los que vienen por defecto en el framework.
+
+Se usara como soporte el proyecto next-teslo-shop del curso de udemy de NextJS de Fernando Herrera. Asi tendremos un ejemplo real de e-commerce realizado con NextJS.
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
