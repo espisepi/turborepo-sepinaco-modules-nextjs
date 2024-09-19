@@ -8,6 +8,19 @@ Se podra reemplazar los componentes y las paginas de los que vienen por defecto 
 
 Se usara como soporte el proyecto next-teslo-shop del curso de udemy de NextJS de Fernando Herrera. Asi tendremos un ejemplo real de e-commerce realizado con NextJS.
 
+TODOS:
+
+1) Crear pagina en framework
+2) Usar pagina en example
+3) Reemplazar pagina en example
+
+1) Crear componente en framework
+2) Usar componente en example
+3) Reemplazar componente en example
+
+1) Crear servicio en framework
+2) Usar servicio en example
+3) Reemplazar servicio en example
 
 # Turborepo starter
 
