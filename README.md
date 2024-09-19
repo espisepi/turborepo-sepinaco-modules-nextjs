@@ -10,9 +10,9 @@ Se usara como soporte el proyecto next-teslo-shop del curso de udemy de NextJS d
 
 TODOS:
 
-1) Crear pagina en framework
-2) Usar pagina en example
-3) Reemplazar pagina en example
+1) Crear pagina en framework (packages)
+2) Usar pagina en example (apps)
+3) Reemplazar pagina en example (apps)
 
 1) Crear componente en framework
 2) Usar componente en example
