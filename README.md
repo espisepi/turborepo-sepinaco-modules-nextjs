@@ -37,6 +37,8 @@ SI: De momento voy a escribir todo el codigo que vaya a utilizar en los proyecto
 
 En nuestro proyecto package/ui ponemos todo el codigo agnostico de framework o react (servicios con fetches, hooks, componentes, stores,...) (pero no ponemos codigo de Nextjs porque no vamos a incluir esa dependencia)
 
+https://turbo.build/repo/docs/crafting-your-repository/creating-an-internal-package
+
 # Turborepo starter
 
 This is an official starter Turborepo.
