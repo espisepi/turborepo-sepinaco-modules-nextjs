@@ -33,7 +33,7 @@ Arquitectura:
 3) carpeta packages/ui: Contiene la libreria de componentes que voy a crear y a usar en el framework (Aqui le pongo todo lo relacionado con r3f y componentes visuales que solo depende de los parametros que le pasemos)
 
 NO: De momento escribire todo el codigo en docs, ahi hare un ecommerce y luego lo ire separando en packages/ui si eso.
-SI: De momento voy a escribir todo el codigo que vaya a utilizar en los proyectos de mis clientes en packages/ui, y el ejemplo de como utilizaerlo y conectarlo en el proyecto docs. Despues el proyecto web tendre que replicar lo que he hecho en docs y sera orientado para un cliente concreeto. Es decir, el proyecto docs es mi proyecto sucio de pruebas usando mi libreria packages/ui, el proyecto packages/ui es mi proyecto libreria framework e-commerce imitando a SAP-Spartacus, el proyecto web es el proyecto que imitiaria un proyecto a un cliente (posidonia shop o charles shop)
+SI: De momento voy a escribir todo el codigo que vaya a utilizar en los proyectos de mis clientes en packages/ui, y el ejemplo de como utilizarlo y conectarlo en el proyecto docs. Despues el proyecto web tendre que replicar lo que he hecho en docs y sera orientado para un cliente concreeto. Es decir, el proyecto docs es mi proyecto sucio de pruebas usando mi libreria packages/ui, el proyecto packages/ui es mi proyecto libreria framework e-commerce imitando a SAP-Spartacus, el proyecto web es el proyecto que imitiaria un proyecto a un cliente (posidonia shop o charles shop)
 
 # Turborepo starter
 
