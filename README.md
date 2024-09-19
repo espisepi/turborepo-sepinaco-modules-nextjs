@@ -26,6 +26,14 @@ TODOS:
 
 1) Usar Jest y testear Nextjs Framework
 
+Arquitectura:
+
+1) carpeta docs: Contiene el proyecto NextJS de nuestro Framework (este proyecto usara la componentes visuales definidos en packages/ui, pero de momento defino los componenetes visuales en este proyecto de docs)
+2) carpeta web: Contiene el proyecto NextJS que usa nuestro framework (proyecto especifico para un cliente)
+3) carpeta packages/ui: Contiene la libreria de componentes que voy a crear y a usar en el framework (Aqui le pongo todo lo relacionado con r3f y componentes visuales que solo depende de los parametros que le pasemos)
+
+De momento escribire todo el codigo en docs, ahi hare un ecommerce y luego lo ire separando en packages/ui si eso.
+
 # Turborepo starter
 
 This is an official starter Turborepo.
